@@ -1,0 +1,8 @@
+# VS Code Extensions
+# Agrega tus extensiones aqui ejecutando:
+# code --list-extensions > extensions.txt
+
+# Ejemplo de formato:
+# ms-python.python
+# eamodio.gitlens
+# PKief.material-icon-theme
