@@ -1,8 +1,21 @@
-# VS Code Extensions
-# Agrega tus extensiones aqui ejecutando:
-# code --list-extensions > extensions.txt
-
-# Ejemplo de formato:
-# ms-python.python
-# eamodio.gitlens
-# PKief.material-icon-theme
+aaron-bond.better-comments
+christian-kohler.path-intellisense
+coenraads.bracket-pair-colorizer-2
+eamodio.gitlens
+equinusocio.vsc-material-theme
+equinusocio.vsc-material-theme-icons
+github.copilot
+gruntfuggly.todo-tree
+johnpapa.vscode-peacock
+ms-azuretools.vscode-containers
+ms-azuretools.vscode-docker
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+ms-python.vscode-python-envs
+ms-vscode.powershell
+ms-vscode.vscode-chat-customizations-evaluations
+pkief.material-icon-theme
+shd101wyy.markdown-preview-enhanced
+yzhang.markdown-all-in-one
+zhuangtongfa.material-theme
